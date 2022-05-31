@@ -1,12 +1,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Avishek Gope</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new field and coding</h3>
+<h3 align="center">A CSE Student who loves exploring new field and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishekreal&label=Profile%20views&color=0e75b6&style=flat" alt="avishekreal" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **avishek06500@gmail.com**
+
+- ⚡ Fun fact **I think I am a good a Boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
